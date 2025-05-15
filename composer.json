@@ -10,7 +10,7 @@
     }
   ],
   "replace": {
-    "drupal/inline_entity_menu_form": "*""
+    "drupal/inline_entity_menu_form": "*"
   },
   "require-dev": {
     "drupal/bartik": "~1.0.0",
