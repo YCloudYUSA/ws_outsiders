@@ -1,0 +1,14 @@
+{
+    "name": "ycloudyusa/ws_outsiders",
+    "description": "metapackage designed for the YMCA Website Services Drupal distribution. Its primary function is to manage and track Drupal modules and third-party vendor libraries that are not yet fully compatible with the latest major version of Drupal core",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrii Podanenko",
+            "email": "podarokua@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
