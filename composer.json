@@ -10,7 +10,7 @@
     }
   ],
   "replace": {
-    "drupal/inline_entity_menu_form": "*"
+    "drupal/inline_entity_menu_form": "*""
   },
   "require-dev": {
     "drupal/bartik": "~1.0.0",
@@ -24,6 +24,7 @@
     "drupal/openy_addthis": "~1.0.0",
     "drupal/panelbutton": "~1.3.0",
     "drupal/seven": "~1.0.0",
+    "drupal/features": "dev-3447460-drupal-11-compatibility",
     "drupal/views_field_formatter_link": "~4.0.0",
     "drupal/yusaopeny_ymca360": "~1.0.0"
   },
